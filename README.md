@@ -2,6 +2,8 @@
 
 **Live site:** [https://bhanukarnam.github.io](https://bhanukarnam.github.io)
 
+**Resume:** [Bhanu_Karnam_Resume.pdf](https://bhanukarnam.github.io/Bhanu_Karnam_Resume.pdf)
+
 Personal portfolio showcasing my data analysis work with SQL, Python (pandas, NumPy, Matplotlib) and Power BI.
 
 ## Projects
